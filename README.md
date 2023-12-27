@@ -1,2 +1,3 @@
 # datascience
-Learning Data Science
+Learning Data Science 
+Everyday
